@@ -1,2 +1,2 @@
-# Notify
-A C++ library containing helpers and classes for message queues, event systems, and logging.
+# Noobium
+A C++ library containing a large set of helpful features.
